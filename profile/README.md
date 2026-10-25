@@ -1,7 +1,7 @@
-# Goobo Labs
+# Somast
 **Building the Foundations of Somali AI.**
 
-Goobo Labs is an open research lab dedicated to advancing Artificial Intelligence for the Somali language. We build open datasets, language technologies, AI models, and developer tools that enable researchers, developers, and organizations to build the next generation of Somali AI.
+Somast is an open research lab dedicated to advancing Artificial Intelligence for the Somali language. We build open datasets, language technologies, AI models, and developer tools that enable researchers, developers, and organizations to build the next generation of Somali AI.
 
 ---
 
@@ -15,6 +15,6 @@ Goobo Labs is an open research lab dedicated to advancing Artificial Intelligenc
 ---
 
 ### Connect With Us
-- Website: https://www.goobolabs.so
-- Email: info@goobolabs.so
+- Website: https://www.somast.so
+- Email:
 - Location: Mogadishu, Somalia
